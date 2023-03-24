@@ -10,21 +10,15 @@ Hi, I'm Flori. With my BF I have have started a self-sufficient'ish small farm i
 
 *For the first iteration I want to keep it really simple: build something with limited but impactful functionality so we can learn step-by-step what we are capable of doing together. Are you ready for this adventure?*
 
- We use Bing Chat as our side-kick, because as of yet the free version of ChatGPT can't browse or create images and sometimes that helps me to get unstuck.
+ We use Bing Chat as our side-kick, because as of yet the free version of ChatGPT can't browse or create images and sometimes I need that to get unstuck.
 
 ## Building with 0-coding experience
 
 I have 0 real-world coding experience. I have done part of the Odin Project. I finished the HTML and CSS modules but got stuck on the JS-part. So I am relying very heavily on the help of ChatGPT.
 
-## Google Spreadsheet
-
-For the first version I have chosen to build a webapp on a Google Spreadsheet, because that seemed less daunting than working with PHP and SQL (as first suggested by SparkleGPT). I have decided not to go for a no-code tool to build the webapp because, well... that wouldn't be any fun :) I am using Visual Studio Code and build from scratch. 
-
 ## 0.1 version
 
-For the 0.1 version I am focusing on the food supply side of our farm. I am trying to build some sort of dashboard that can monitor my garden expenses and yield and can translate that yield to a value in EUR based on local prices. 
-
-After that I want to add in a recipe generator to preserve the food.
+For the 0.1 version I am focusing on the food supply side of our farm. I am trying to build a webapp where I can monitor my garden expenses and yield. 
 
 ## Feel free to follow or re-use
 
