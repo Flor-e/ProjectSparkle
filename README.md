@@ -1,4 +1,4 @@
-![farm icon](images/farm.png) # ProjectSparkle
+<img src="images/farm.png", alt="farm image", width="50"> # ProjectSparkle
 
 Hi, I'm Flori. With my BF I have have started a self-sufficient'ish small farm in january 2023.
 
