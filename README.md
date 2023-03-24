@@ -4,7 +4,7 @@ Hi, I'm Flori. With my BF I have have started a self-sufficient'ish small farm i
 
 ## Building with ChatGPT
 
- I am doing this fully with the help of ChatGPT (the free version). So why the name ProjectSprakle, you ask? Good question! I wanted a cute name for my GPT-assistant and I named him SparkleGPT. I hope we can spark some cool stuff together.
+ I am doing this fully with the help of ChatGPT (the free version). For the occasion I have named my GPT-assistant "SparkleGPT". I hope we can spark some cool stuff together.
 
  We use Bing Chat as our side-kick, because as of yet the free version of ChatGPT can't browse or create images and sometimes that helps me to get unstuck.
 
