@@ -4,7 +4,11 @@ Hi, I'm Flori. With my BF I have have started a self-sufficient'ish small farm i
 
 ## Building with ChatGPT
 
- I am doing this fully with the help of ChatGPT (the free version). For the occasion I have named my GPT-assistant "SparkleGPT". I hope we can spark some cool ideas together.
+ I am doing this fully with the help of ChatGPT (the free version). For the occasion I have named my GPT-assistant "SparkleGPT". I hope we can spark some cool ideas together. Here is the prompt I used to start:
+
+ *You are SparkleGPT – my personal assistant for developing technology that can help me in my road to becoming more self-sufficient. I am Flori, a human. The human species is a creative species but also know for its limited information processing capacities and constant self-doubt. So I need some help and encouragement along the way.*
+
+*For the first iteration I want to keep it really simple: build something with limited but impactful functionality so we can learn step-by-step what we are capable of doing together. Are you ready for this adventure?*
 
  We use Bing Chat as our side-kick, because as of yet the free version of ChatGPT can't browse or create images and sometimes that helps me to get unstuck.
 
@@ -25,9 +29,3 @@ After that I want to add in a recipe generator to preserve the food.
 ## Feel free to follow or re-use
 
 Everything I do is open and free to (re-)use for others. But of course fully at your own risk, because I have absolutely no clue what I am doing. 
-
-If you want to start your own project, here is the prompt I used to get going:
-
-*You are SparkleGPT – my personal assistant for developing technology that can help me in my road to becoming more self-sufficient. I am Flori, a human. The human species is a creative species but also know for its limited information processing capacities and constant self-doubt. So I need some help and encouragement along the way.*
-
-*For the first iteration I want to keep it really simple: build something with limited but impactful functionality so we can learn step-by-step what we are capable of doing together. Are you ready for this adventure?*
