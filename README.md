@@ -1,4 +1,4 @@
-<img src="images/farm.png", alt="farm image", width="50"> # ProjectSparkle
+![farm image](images/farm.png "Farm Image"){: width="50px"} # ProjectSparkle
 
 Hi, I'm Flori. With my BF I have have started a self-sufficient'ish small farm in january 2023.
 
