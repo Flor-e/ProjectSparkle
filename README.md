@@ -1,4 +1,4 @@
-![farm image](images/farm.png "Farm Image"){: width="50px"} # ProjectSparkle
+![farm image](images/farm.png){ width=20px } # ProjectSparkle
 
 Hi, I'm Flori. With my BF I have have started a self-sufficient'ish small farm in january 2023.
 
